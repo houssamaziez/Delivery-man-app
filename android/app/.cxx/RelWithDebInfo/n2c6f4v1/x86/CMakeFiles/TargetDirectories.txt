@@ -1,0 +1,2 @@
+/Users/mac/Downloads/codecanyon-J1C6h7e1-stackfood-multi-restaurant-delivery-man-app-v10/Delivery man app/android/app/.cxx/RelWithDebInfo/n2c6f4v1/x86/CMakeFiles/edit_cache.dir
+/Users/mac/Downloads/codecanyon-J1C6h7e1-stackfood-multi-restaurant-delivery-man-app-v10/Delivery man app/android/app/.cxx/RelWithDebInfo/n2c6f4v1/x86/CMakeFiles/rebuild_cache.dir
